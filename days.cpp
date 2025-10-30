@@ -3,7 +3,7 @@
 int main()
 {
 	int day;
-	
+	//commented
 	printf("Please enter a single digit for a day\n");
 	scanf("%d",&day);
 	printf("(within the range of 1 to 7):\n");
